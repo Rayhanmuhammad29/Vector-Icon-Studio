@@ -1,0 +1,6 @@
+{
+  "name": "Finance Vector Icon Studio",
+  "description": "An interactive workspace for configuring, inspecting, and exporting a uniform set of 6 pixel-perfect, geometric, business and finance themed business icons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
